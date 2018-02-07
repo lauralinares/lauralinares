@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Translation and Cultural Representation",
+    "Translation and Minority",
+    "Digital Narratives",
+    "Corpus-based methodologies",
+    "Data analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Higher Diploma in Teaching and Learning"
+  institution = "University College Cork"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MRes in Hispanic/Translation Studies"
+  institution = "University College Cork"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Translation Studies"
+  institution = "University of Vigo"
+  year = 2010
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Laura Linares and I am a PhD candidate in the Department of Spanish, Portuguese and Latin American Studies in University College Cork, working on the translation and mediation of narrative from a minority/minorized culture (Galician) into the hegemonic English speaking-world. Her project has been awarded the College of Arts, Celtic Studies and Social Sciences Excellence Scholarship and the Irish Research Council Postgraduate Scholarship. Prior to this, she completed her Masters by Research in Hispanic Studies with the thesis 'Translation and Ideology: Resistance in Plácido Castro’s Galician Version of the Rubáiyát of Omar Kháyyám'. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My main research interests include translation and ideology, cultural representation, translation in non-hegemonic cultures and the role of translation in the construction of identities in a global world, as well as the application of corpus-based methodologies to the study of texts and their translations. Besides, through my work as a translator, both in-house and as a freelancer, I very much enjoy exploring the interconnections between theory and practice and how they may inform each other.

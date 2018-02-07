@@ -246,8 +246,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
   [[menu.main]]
-  name = "PhD Project"
-  url = "#phdproject"
+  name = "PhD"
+  url = "#phd"
   weight = 2
   
   [[menu.main]]

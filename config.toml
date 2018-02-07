@@ -166,7 +166,7 @@ defaultContentLanguageInSubdir = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
     'Book review' # 7
   ]
 

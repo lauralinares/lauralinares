@@ -50,21 +50,17 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Laura Linares"
+  role = "IRC Postgraduate Scholar"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University College Cork", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "lauralinares@ucc.ie"
+  address = "Department of Spanish, Portuguese and Latin American Studies"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -170,7 +166,8 @@ defaultContentLanguageInSubdir = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book chapter'  # 6
+    'Book review' # 7
   ]
 
   # Configuration of talk pages.
@@ -217,22 +214,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:laura.linares@ucc.ie"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/laura_lino"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "researchgate"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://www.researchgate.net/profile/Laura_Linares4"
 
   [[params.social]]
-    icon = "github"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://www.linkedin.com/in/lauralinares/"
 
 
 # Navigation Links
@@ -254,8 +251,8 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Translation"
+  url = "#translation"
   weight = 3
 
 [[menu.main]]

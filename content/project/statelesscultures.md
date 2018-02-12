@@ -3,13 +3,13 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Deep Learning"
+title = "Stateless Cultures"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "I am currently Research Assistant for the project Stateless Cultures"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "stateless.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "stateless.jpg"
+caption = "Stateless Cultures"
 
 +++
 

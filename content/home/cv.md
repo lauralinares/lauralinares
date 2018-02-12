@@ -11,7 +11,7 @@ title = "CV"
 subtitle = "Laura Linares"
 
 # Order that this section will appear in.
-weight = 60
+
 
 +++
 

@@ -3,13 +3,13 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Aigne Journal"
+title = "Editing Projects"
 
 # Project summary to display on homepage.
-summary = "I am editor and website manager for Aigne Journal."
+summary = "I am editor and website manager for Aigne Journal and I am guest editing the 2019 issue of Galicia21: Journal of Galician Studies with Dr Olga Castro."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "aigne.jpg"
+image_preview = "editing.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "aigne.jpg"
-caption = "Aigne Journal"
+image = "editing.jpg"
+caption = "Editing Projects"
 
 +++
 

@@ -3,7 +3,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
-active = true
+active = false
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -15,10 +15,10 @@ subtitle = "Laura Linares"
 
 +++
 
-Page 1
-Laura Linares
+
+*Laura Linares*
 PhD Candidate | Translator | Assistant Lecturer
-lauralinares@posteo.net
+laura.linares [at] ucc.ie
 
 *Summary*
 I am a PhD candidate in the Department of Spanish, Portuguese and Latin American Studies in University College Cork, working on the translation and mediation of narrative from a minority/minorized culture (Galician) into the hegemonic English speaking-world.

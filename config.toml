@@ -47,7 +47,7 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "default"
 
   # Your details.
   name = "Laura Linares"
@@ -244,36 +244,31 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
-
-  [[menu.main]]
-  name = "PhD"
-  url = "#phd"
-  weight = 2
   
   [[menu.main]]
-  name = "Other Projects"
+  name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 4
+  weight = 3
   
   [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
   
   [[menu.main]]
   name = "Translation"
   url = "#translation"
-  weight = 6
+  weight = 5
   
   [[menu.main]]
   name = "CV"
   url = "#cv"
-  weight = 7
+  weight = 6
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 

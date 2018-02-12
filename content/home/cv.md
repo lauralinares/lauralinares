@@ -1,5 +1,5 @@
 +++
-title = "Academic: the website designer for Hugo"
+title = "Laura Linares"
 
 date = 2016-04-20
 lastmod = 2018-01-13

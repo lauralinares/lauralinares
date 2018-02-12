@@ -41,4 +41,4 @@ My name is Laura Linares and I am a PhD candidate in the Department of Spanish, 
 
 My main research interests include translation and ideology, cultural representation, translation in non-hegemonic cultures and the role of translation in the construction of identities in a global world, as well as the application of corpus-based methodologies to the study of texts and their translations. 
 
-I am very interested in the interconnections between theory and practice and how they may inform each other. I combine my work on my PhD project with freelance translation and localisation, mostly of websites and videogames, and with teaching in the MA in Translation Studies at University College Cork. For a more detailed account of my activities, check [my CV]{{< ref "cv.md" >}}
+I am very interested in the interconnections between theory and practice and how they may inform each other. I combine my work on my PhD project with freelance translation and localisation, mostly of websites and videogames, and with teaching in the MA in Translation Studies at University College Cork. For a more detailed account of my activities, check [my CV](cv.md).

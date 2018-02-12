@@ -9,7 +9,7 @@ title = "Editing Projects"
 summary = "I am editor and website manager for Aigne Journal and I am guest editing the 2019 issue of Galicia21: Journal of Galician Studies with Dr Olga Castro."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "editing.jpg"
+image_preview = "editing2.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "editing.jpg"
+image = "editing2.jpg"
 caption = "Editing Projects"
 
 +++

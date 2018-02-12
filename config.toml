@@ -267,7 +267,7 @@ defaultContentLanguageInSubdir = false
   
   [[menu.main]]
   name = "CV"
-  url = "cv.md"
+  url = {{< ref "cv.md" >}}
   weight = 6
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

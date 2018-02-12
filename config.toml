@@ -47,11 +47,11 @@ defaultContentLanguageInSubdir = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "default"
+  font = "playfair"
 
   # Your details.
   name = "Laura Linares"
-  role = "IRC Postgraduate Scholar"
+  role = "PhD Researcher | Translator"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.

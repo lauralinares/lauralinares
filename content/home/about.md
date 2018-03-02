@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Translation and Cultural Representation",
-    "Translation and Minority",
+    "Localization",
     "Digital Narratives",
     "Corpus-based methodologies",
     "Data analysis"
@@ -37,8 +37,6 @@ weight = 5
 
 # Biography
 
-My name is Laura Linares and I am a PhD candidate in the Department of Spanish, Portuguese and Latin American Studies in University College Cork, exploring the translation and mediation of narrative from a minority/minorized culture (Galician) into the hegemonic English speaking-world. 
+My name is Laura Linares and I am a PhD candidate in Translation Studies at University College Cork. The title of my thesis is 'Mediating Minority: A Corpus-based Study of Galician literature into English', and uses corpus linguistics and data mining techiques to explore the strategies used by translators working on the mediation of narrative from a minority culture (Galician) into the English speaking-world. 
 
-My main research interests include translation and ideology, cultural representation, translation in non-hegemonic cultures and the role of translation in the construction of identities in a global world, as well as the application of corpus-based methodologies to the study of texts and their translations. 
-
-I am very interested in the interconnections between theory and practice and how they may inform each other. I combine my work on my PhD project with freelance translation and localisation, mostly of websites and videogames, and with teaching in the MA in Translation Studies at University College Cork. For a more detailed account of my activities, check [my CV](#cv.md).
+Before starting my PhD, I completed an MRes on Translation and Ideology and worked as a translator (both in-house and as a freelancer) and as a project manager. I am very interested in the influence of translation in cultural representation and the role of translation in the construction of identities in an interconnected, digital world, as well as the use of new media and digital narratives in a multilingual global society, and the application of corpus techniques and data analysis to the exploration of texts and their translations.

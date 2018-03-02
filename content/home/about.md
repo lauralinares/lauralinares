@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Higher Diploma in Teaching and Learning"
+  course = "Higher Dip in Teaching and Learning"
   institution = "University College Cork"
   year = 2017
 

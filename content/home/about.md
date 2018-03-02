@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Translation and Cultural Representation",
+    "Translation and cultural representation",
     "Localization",
-    "Digital Narratives",
+    "Digital narratives",
     "Corpus-based methodologies",
     "Data analysis"
   ]

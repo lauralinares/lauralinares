@@ -262,7 +262,7 @@ defaultContentLanguageInSubdir = false
   
     [[menu.main]]
   name = "CV"
-  url = "/static/img/CV_2017.pdf"
+  url = "/files/CV_2017.pdf"
   weight = 5
   
 

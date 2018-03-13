@@ -24,7 +24,7 @@ Before this, from 2014 to 2017, I was the appointed Galician Lectora (a 3-year p
 * Galician Language III
 * Galician Cultural Studies
 
-As part of my role, I was also in charge of 
-* keeping the Irish Centre for Galician Studies' website up to date (http://www.ucc.ie/en/galician/)
-* assisting the Director of the ICGS in the organisation and management of both academic and non-academic events and
+As part of my role, I was also in charge of:
+* Maintaining the Irish Centre for Galician Studies' website (http://www.ucc.ie/en/galician/)
+* Assisting the Director of the ICGS in the organisation and management of both academic and non-academic events.
 * Organising extra-curricular activities for the students and the academic community in order to promote Galician language and culture.

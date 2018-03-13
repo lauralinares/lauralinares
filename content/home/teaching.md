@@ -15,16 +15,16 @@ weight = 50
 
 +++
 
-I have been teaching in UCC for the past for years and I am currently involved in the MA in Translation Studies, teaching Contemporary Translation Theory and Practice in the first semester and directing the short Translation Project that students have to do in the second semester in preparation for their final dissertation. Along with those modules, I will be giving a seminar and workshop on the use of corpora in Translation Studies and a videogame translation workshop in April.
+I have been teaching in UCC for the past for years and I am currently involved in the MA in Translation Studies, teaching **Contemporary Translation Theory and Practice** in the first semester and directing the short **Translation Project** that students have to do in the second semester in preparation for their final dissertation. Along with those modules, I will be giving a seminar and workshop on the use of corpora in Translation Studies and a videogame translation workshop in April.
 
 Before this, from 2014 to 2017, I was the appointed Galician Lectora (a 3-year programme funded by the Galician government), and was  in charge of designing the programme for and teaching the following modules:
 
-Galician Language and Culture I
-Galician Language and Culture II
-Galician Language III
-Galician Cultural Studies
+* Galician Language and Culture I
+* Galician Language and Culture II
+* Galician Language III
+* Galician Cultural Studies
 
 As part of my role, I was also in charge of 
- - Keeping the Irish Centre for Galician Studies' website up to date (http://www.ucc.ie/en/galician/)
- - Assisting the Director of the ICGS in the organisation and management of both academic and non-academic events and
- - Organising extra-curricular activities for the students and the academic community in order to promote Galician language and culture.
+* keeping the Irish Centre for Galician Studies' website up to date (http://www.ucc.ie/en/galician/)
+* assisting the Director of the ICGS in the organisation and management of both academic and non-academic events and
+* Organising extra-curricular activities for the students and the academic community in order to promote Galician language and culture.

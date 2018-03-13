@@ -6,14 +6,14 @@ date = "2016-04-27"
 title = "Stateless Cultures"
 
 # Project summary to display on homepage.
-summary = "I am currently Research Assistant for the project Stateless Cultures"
+summary = "Stateless Cultures is a British Academy/Leverhulme-funded project led by Dr Olga Castro in which I will be working as a Research Assistant."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "stateless.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["research", "minority", "translation"]
+tags = ["translation", "research", "practice"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -27,6 +27,7 @@ image = "stateless.jpg"
 caption = "Stateless Cultures"
 
 +++
+
 
 Stateless Cultures is a British Academy/Leverhulme-funded project led by Dr Olga Castro, from the University of Birmingham, for which I will be working as Research Assistant from March to June. Below is a summary of the general project. 
 
